@@ -6,7 +6,7 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 28th February 2025
+**Last Update:** 3rd March 2025
 
 
 ### 🎮 Playing
@@ -21,6 +21,11 @@ Lord of the Rings, Vigilant by James A. Gardner, Carmilla
 
 ### 🎙️ Podcasts 
  The Adventure Zone, Murray Mysteries
+
+### 🎸 Music
+
+- [Gossip](https://youtu.be/D0ipF47PuUI?si=URHXZ6a2RmmDgFmS) - Maneskin
+- [End of It](https://www.youtube.com/watch?v=iy-eBFsP9JQ) - Friday Pilots Club
 
 ### 💡 Creating
 - Creating a page about Vasslord for my neocities website
