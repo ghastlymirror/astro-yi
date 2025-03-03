@@ -1,3 +1,6 @@
+---
+draft: true
+---
 import {defineConfig} from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
@@ -19,7 +22,7 @@ import {remarkHtml} from "./src/plugins/remark-html.js";
 
 
 export default defineConfig({
-  site: 'https://astro-yi-nu.vercel.app',
+  site: 'https://www.ghastlymirror.xyz',
   integrations: [sitemap(), tailwind(), solid(), expressiveCode({
     plugins: [pluginLineNumbers(), pluginCollapsibleSections()],
     themes: ["github-dark", "github-light"],
