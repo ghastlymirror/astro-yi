@@ -69,31 +69,44 @@ export const categories = [
     iconClass: "ri-draft-line",
     href: "/blog/1",
   },
-  {
-    name: "Feed",
-    iconClass: "ri-lightbulb-flash-line",
-    href: "/feed/1",
-  },
-  // {
-  //   name: "Memos",
-  //   iconClass: "ri-quill-pen-line",
-  //   href: "/memos",
-  // },
+
+ 
+ 
   {
     name: "Archive",
     iconClass: "ri-archive-line",
     href: "/archive/1",
   },
+
   {
-    name: "Message",
-    iconClass: "ri-chat-1-line",
-    href: "/message",
+    name: "Backlog",
+    iconClass: "ri-gamepad-line",
+    href: "https://www.backloggd.com/u/GhastlyMirror/",
   },
+
+  {
+    name: "Achievements",
+    iconClass: "ri-medal-line",
+    href: "https://www.exophase.com/user/ghastlymirror/",
+  },
+
+
+
+  {
+    name: 'Now',
+    iconClass: 'ri-pushpin-line',
+    
+    href: '/now',
+  },
+ 
   {
     name: "Search",
     iconClass: "ri-search-line",
     href: "/search",
   },
+ 
+  
+
   {
     name: "More",
     iconClass: "ri-more-fill",
@@ -105,11 +118,29 @@ export const categories = [
         href: '/about',
       },
       {
-        name: 'Friends',
+        name: 'Blogroll',
         iconClass: 'ri-user-5-line',
-        href: '/friends',
+        href: '/blogroll',
         target: '_self',
       },
+
+      {
+        name: "Message",
+        iconClass: "ri-chat-1-line",
+        href: "/message",
+      },
+      {
+        name: "Feed",
+        iconClass: "ri-lightbulb-flash-line",
+        href: "/feed/1",
+      },
+
+      {
+        name: "Disclaimer",
+        iconClass: "ri-megaphone-line",
+        href: "/disclaimer",
+      },
+
     ]
   }
 ]
