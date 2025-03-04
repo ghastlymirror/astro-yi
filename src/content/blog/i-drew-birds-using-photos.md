@@ -12,7 +12,7 @@ donate: true
 toc: true
 ogImage: /images/blog/sparrowsketc.jpg
 preview: /images/blog/sparrowsketc.jpg
-description: When I´m not trying to develop my photography skills, I´m practicing sketching. I´m pretty much a beginner and hope to improve.  Using Reference is how I Learn
+description: When I´m not trying to develop my photography skills, I´m practicing sketching. I´m pretty much a beginner and hope to improve.  Using References is how I Learn
 ---
 
 When I´m not trying to develop my photography skills, I´m practicing sketching. I´m pretty much a beginner and hope to improve over time. Now, sometimes I like to join both types of creativity and make something out of it so here are a bunch of drawings that I made by using photo references that I took myself.
