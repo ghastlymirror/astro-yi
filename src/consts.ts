@@ -407,6 +407,13 @@ export const friendshipLinks =
   description: "The Personal Website of Steven"
 },
 
+{
+  name: "The Virtual Moose",
+  url: "https://tanzi-media.com/",
+  avatar: "/images/blogroll/virtualmoose.jpg",
+  description: "Makes Tiny Games Near Detroit"
+},
+
 
 
   ]
