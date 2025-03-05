@@ -400,6 +400,12 @@ export const friendshipLinks =
   description: "Keeping Wii U and 3DS Servers Alive"
 },
 
+{
+  name: "Tanzi Media",
+  url: "https://tanzi-media.com/",
+  avatar: "/images/blogroll/mooseontheloose.gif",
+  description: "The Personal Website of Steven"
+},
 
 
 
