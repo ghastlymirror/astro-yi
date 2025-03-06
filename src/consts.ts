@@ -414,6 +414,12 @@ export const friendshipLinks =
   description: "Makes Tiny Games Near Detroit"
 },
 
+{
+  name: "Jefklak´s Codex",
+  url: "https://jefklakscodex.com/",
+  avatar: "/images/blogroll/jefklakcodex.jpg",
+  description: "Opinionated Website About Nostalgic Games"
+},
 
 
   ]
