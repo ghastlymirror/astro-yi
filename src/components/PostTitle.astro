@@ -43,12 +43,14 @@ const currentDate = dayjs();
     }
 
     <!-- update -->
-    <!--{-->
-    <!--  lastModified && (-->
-    <!--    <div class="mr-2"><i class="ri-calendar-check-fill "></i>{t('post.lastUpdated')}:{lastModified}</div>-->
-    <!--  )-->
-    <!--}-->
+    {
+     lastModified && (
+      <div class="mr-2"><i class="ri-calendar-check-fill "></i>{t('post.lastUpdated')}:{lastModified}</div>
+    
+    )
 
+    }
+    
     <!-- minutes -->
     {
       readingTime.minutes && readingTime.minutes !== 0 && (
