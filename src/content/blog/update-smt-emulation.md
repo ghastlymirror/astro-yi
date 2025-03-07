@@ -3,6 +3,7 @@ title: Update on the SMT:Imagine  Emulation Scene
 date: 2022-12-31
 category:
   - gaming
+  - news
 tags:
   - emulation
   - retro
