@@ -9,7 +9,7 @@ tags:
 ogImage: /images/blog/mallard-duck.png
 comment: true
 donate: true
-description: As I emntioned before my town has a Park With a Lake that is a Home to a lot of Birds. And Ducks! Lots and Lots of Ducks, and I like taking photos of them.
+description: As I mentioned before my town has a Park With a Lake that is a Home to a lot of Birds. And Ducks! Lots and Lots of Ducks, and I like taking photos of them.
 ---
 ![A single male mallard duck at a pont](/images/blog/mallard-duck.png)
 
