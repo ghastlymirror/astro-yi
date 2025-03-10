@@ -421,6 +421,13 @@ export const friendshipLinks =
   description: "Opinionated Website About Nostalgic Games"
 },
 
+{
+  name: "The Obscuritory",
+  url: "https://obscuritory.com/",
+  avatar: "/images/blogroll/obscurity.png",
+  description: "For Games Unplayed and Unknown"
+},
+
 
   ]
 
