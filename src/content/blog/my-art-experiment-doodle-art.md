@@ -5,11 +5,11 @@ category:
   - projects
 tags:
   - art
- 
 ogImage: /images/blog/doodle-art.jpg
 comment: true
 donate: true
 preview: /images/blog/doodle-art.jpg
+description: During a day of boredom I decided to binge-watch several art tutorials and decided to take a shot at doodle art, here´s the full result of such a project.
 ---
 ![A series of abstract white and black doodles with abstract patterns](/images/blog/doodle-art.jpg "One of my drawings that came out of this experiment.")
 
