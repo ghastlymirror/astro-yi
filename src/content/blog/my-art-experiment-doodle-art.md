@@ -1,5 +1,5 @@
 ---
-title: MY Art Experiment - Doodle Art
+title: My Art Experiment - Doodle Art
 date: 2022-12-21
 category:
   - projects
