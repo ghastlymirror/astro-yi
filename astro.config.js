@@ -16,14 +16,9 @@ import {lazyLoadImage} from "./src/plugins/lazy-load-image.js";
 import {remarkButton} from "./src/plugins/remark-button.js";
 import {remarkHtml} from "./src/plugins/remark-html.js";
 
-const isProd = import.meta.env.PROD;
 
 export default defineConfig({
   site: 'https://www.ghastlymirror.xyz',
-   // When using GitHub Pages, you need to fill in the repository name in the first single quote
-  // e.g. base: isProd ? 'github_repo_name' : '',
-  base: isProd ? 'astro-yi' : '',
-  trailingSlash: "never",
   integrations: [sitemap(), tailwind(), expressiveCode({
     plugins: [pluginLineNumbers(), pluginCollapsibleSections()],
     themes: ["github-dark", "github-light"],
