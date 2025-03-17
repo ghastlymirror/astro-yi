@@ -22,7 +22,7 @@ export default defineConfig({
   site: 'https://www.ghastlymirror.xyz',
    // When using GitHub Pages, you need to fill in the repository name in the first single quote
   // e.g. base: isProd ? 'github_repo_name' : '',
-  base: isProd ? '' : '',
+  base: isProd ? 'astro-yi' : '',
   trailingSlash: "never",
   integrations: [sitemap(), tailwind(), expressiveCode({
     plugins: [pluginLineNumbers(), pluginCollapsibleSections()],
