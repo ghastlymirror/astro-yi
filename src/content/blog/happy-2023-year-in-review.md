@@ -11,6 +11,10 @@ ogImage: /images/blog/happy-new-year.png
 comment: true
 donate: true
 toc: true
+preview: /images/blog/happy-new-year.png
+description: |-
+  So the fireworks were launched, glasses were clinked and all to welcome the new year.
+  So, I´m taking this time to do a small yearly review of this blog.
 ---
 ![Fireworks](/images/blog/happy-new-year.png)
 
