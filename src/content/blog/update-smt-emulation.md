@@ -8,8 +8,8 @@ tags:
   - emulation
   - retro
   - mmo
-ogImage: /images/blog/shinmegamitenseiproject.jpg
 
+ogImage: /images/blog/shinmegamitenseiproject.jpg
 donate: true
 comment: true
 description: No Posts this week. But Since the last time I´ve found some good news about the state of the Shin Megami Tensei Re:Imagine Revival Servers. We can play it again.
