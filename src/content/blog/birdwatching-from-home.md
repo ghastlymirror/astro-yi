@@ -10,7 +10,7 @@ comment: true
 donate: true
 ogImage: /images/blog/magpieinroof.jpg
 preview: /images/blog/magpieinroof.jpg
-description: While I often enjoy  going out outdoors to go birdwatching sometimes that isn´t always possible. Luckily i can still seem some birds from my home.
+description: While I often enjoy  going out outdoors to go birdwatching sometimes that isn´t always possible. Luckily i can still see some birds from my home.
 ---
 
 Why I always enjoy going out and travel to places like parks and nature reserves for some birdwatching with my trusty camera, I don´t always need to go very far.
