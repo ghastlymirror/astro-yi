@@ -8,7 +8,7 @@ tags:
   - blaugust
   - nature
   - horror
-  - sci-fi
+  - scifi
 ogImage: /images/blog/blaugust2022.webp
 preview: /images/blog/blaugust2022.webp
 description: We´re almost halfaway throught blaugust, this week´s them is aprrecition for your favorite creator or thing you love.  Its was to decide so I made a list.
