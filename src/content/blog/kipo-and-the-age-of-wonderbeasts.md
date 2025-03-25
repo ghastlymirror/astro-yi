@@ -3,6 +3,7 @@ title: "Kipo and The Age of Wonderbeasts: An Underrated Gem"
 date: 2023-02-27
 category:
   - blogging
+  - review
   - other media
 tags:
   - scifi
