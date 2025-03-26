@@ -6,7 +6,7 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 24th March 2025
+**Last Update:** 26th March 2025
 
 
 ### 🎮 Playing
@@ -14,10 +14,10 @@ This page is where I give updates about what goes on with my life. Original idea
 Animal Crossing, A Witch´s Tale, Webfishing, Grim Fandango, Nightmare Before Christmas: Rise of the Pumpkin King, Pokemon Seaglass, Piglet´s Big Game, Rapshody a Musical Adventure
 
 ### 📺 Watching
- King of the Hill, Delico´s Nursery, Gremlins, [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Sakamoto Days, Delicious in Dungeon, Friendly Neighbourhood Spider-Man, American Dragon: jake Long
+ King of the Hill, Delico´s Nursery, Gremlins, [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Delicious in Dungeon, Friendly Neighbourhood Spider-Man, American Dragon: jake Long, Monster Loving Maniacs
 
 ### 📖 Reading
-Lord of the Rings, Vigilant by James A. Gardner, Carmilla, The Gropes
+Lord of the Rings, Vigilant by James A. Gardner, Carmilla, 
 
 ### 🎙️ Podcasts 
  The Adventure Zone, Murray Mysteries, [**The Holmwood Foundation**](https://shows.acast.com/667084e3abc94e79816dfa56/episodes/67bc412db628e470d3e69019?)
@@ -42,6 +42,6 @@ Lord of the Rings, Vigilant by James A. Gardner, Carmilla, The Gropes
 
 ### 🐦‍ Living
 
-Had a day of bad luck it seems, also a small bit of plastic broke off from my 3ds, I glued it with eletric duck tape, its more of a comestic issue nothing too serious.
+Been doing some more excercise lately like Biking or Inline Skating
 
 
