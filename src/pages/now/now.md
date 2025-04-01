@@ -42,6 +42,6 @@ Lord of the Rings, Vigilant by James A. Gardner, Carmilla,
 
 ### 🐦‍ Living
 
-Been doing some more excercise lately like Biking or Inline Skating
+Been doing some more exercise lately like Biking or Inline Skating
 
 
