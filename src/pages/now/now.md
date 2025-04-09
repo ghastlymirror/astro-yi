@@ -6,19 +6,18 @@ comment: false
 ## Now 
 This page is where I give updates about what goes on with my life. Original idea by [**Derek Sivers**](https://sive.rs/nowff)
 
-**Last Update:** 4th April 2025
+**Last Update:** 9th April 2025
 
 
 ### 🎮 Playing
 
-Animal Crossing, A Witch´s Tale, Webfishing, Grim Fandango, Nightmare Before Christmas: Rise of the Pumpkin King, Pokemon Seaglass, Piglet´s Big Game, Slay the Spire
+Animal Crossing, A Witch´s Tale, Webfishing, Grim Fandango, Nightmare Before Christmas: Rise of the Pumpkin King, Pokemon Seaglass, Piglet´s Big Game, Slay the Spire, WarioLand Virutal Boy
 
 ### 📺 Watching
  King of the Hill, Delico´s Nursery, Gremlins, [**O Beijo Do Vampiro**](https://novelasflixbr.net/novelas/o-beijo-do-vampiro/), Delicious in Dungeon, Friendly Neighbourhood Spider-Man, American Dragon: jake Long, Monster Loving Maniacs
 
 ### 📖 Reading
-Lord of the Rings, Vigilant by James A. Gardner, Carmilla, Stiff Upper Lip Jeeves
-
+Lord of the Rings, Vigilant by James A. Gardner, Carmilla, 
 ### 🎙️ Podcasts 
  The Adventure Zone, Murray Mysteries, [**The Holmwood Foundation**](https://shows.acast.com/667084e3abc94e79816dfa56/episodes/67bc412db628e470d3e69019?)
 
@@ -44,6 +43,5 @@ Lord of the Rings, Vigilant by James A. Gardner, Carmilla, Stiff Upper Lip Jeeve
 
 ### 🐦‍ Living
 
-Been doing some more exercise lately like Biking or Inline Skating
-
+pending the Spring Break goint at the beach
 
