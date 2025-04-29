@@ -1,6 +1,6 @@
 ---
 title: "Witches & Vampires: Secrets of Ashbury Review"
-pubDate: 2025-04-18
+date: 2025-04-18
 category:
     - gaming
     - review
@@ -11,6 +11,8 @@ tags:
 toc: true
 donate: true
 comment: true
+preview: /images/blog/witchesvampirescover.jpg
+ogImage: /images/blog/witchesvampirescover.jpg
 ---
 ## Intro
 
