@@ -1,6 +1,6 @@
 ---
 title: "Witches & Vampires: Secrets of Ashbury Review"
-date: 2025-04-18
+date: 2025-04-29
 category:
     - gaming
     - review
@@ -13,7 +13,11 @@ donate: true
 comment: true
 preview: /images/blog/witchesvampirescover.jpg
 ogImage: /images/blog/witchesvampirescover.jpg
+description: The perfect rpg for your supernatural young adult novel fan. Or is it? I used to play this ages ago and came back to it  recently. Let´s see how it holds up.
 ---
+
+![Game cover of Witches and Vampires: Secrets of Ashbury](/images/blog/witchesvampirescover.jpg#original)
+
 ## Intro
 
 Thanks to popular shows involving the supernatural as well as certain book involving vampire romance the 2000s and even a little bit of the early 2010s were a golden age for urban fantasy, specially when trying to court a teen female demographic. Withces, vampires and even werewolves did capture the imagination. So one game studio dared to catch in on the craze with the Witches & Vampires series. 
@@ -31,6 +35,8 @@ And how does it hold up as a Supernatural themed Title?  Let´s find out shall 
 
 ## The Main Story
 
+![game screenshot showing a young woman entering a white house](/images/2025/witchesvampiresintro.jpg#original)
+
 We get introduced to Aluna (I guess Luna wasn't mystical enough) returning to her hometown of Ashbury after 3 years. Despite coming from a long line of magic users, she wants none of that. She wants to just live a normal live without all that supernatural business.
 
 It's here where we get introduced to her mom Valthera and two siblings, well half-siblings,  Ruby (a goth girl and half-witch), and Dariel the Vampire. But this little family reunion is interrupted by the main villain of the game Abaddon, an evil vampire who put their Mother in a magic coma.
@@ -40,7 +46,7 @@ After exploring the town and some side quests, I managed to track down Jasper, a
 
 So, it's Fetch Quest: the game if I've ever seen one.
 
-##How´s The gameplay?
+## How´s The gameplay?
 
 This plays as your typical turn-based RPG with a couple of differences, for one, unlike other titles there isn't much in the way of recruiting characters to building your ideal party. Instead, you're stuck with the three siblings.
 
@@ -57,6 +63,8 @@ While interesting in theory, I ended up not using it much, not when there is mag
 This is also when we first get to see the touchscreen gimmick, typical for the DS era. Instead of simply pressing a button to attack, you have to draw the same pattern as shown on the screen, while novel at first, I found it tiring and there doesn´t seem to be an option to skip it.
 
 Not to mention it's not always consistent, the game still gives some leeway if you get most of it right, but other times you could make a mistake like I did by drawing a small curve only for it to reject it.
+
+![screenshot showing a map of the town on the right and on the left two girls and one guy during a battle ](/images/2025/battlewitchesvampires.jpg#original)
 
 Item use also has some limitations, you can only use them on the character you're controlling at the time, which I've had some moments where I had to choose between using my turn to attack an enemy and hope for the best, or use a healing potion and ending extending the duration of the battle.  I guess I can just use Ruby, but this forces to focus more on healing instead of stats alteration, specially in early chapters of the game before I level them enough.
 
@@ -78,6 +86,9 @@ There is also at certain point in the game where the stylus is used to scry the 
 
 But lastly, you will eventually unlock fast travel, which is yet another mini-game where you fly on a broom and have to go through a certain number of hoops before the timer runs out. Again like some of the games mention it can be tiring very quickly when you do a lot of backtracking, the only positive thing is that it gives out extra XP, and that's it.
 
+![a gothic looking witche flying on a broomstick through hoops](/images/2025/witchesflybroom.jpg#original "Harry Potter eat your heart out!")
+
+
 ## Meet The characters
 
 One could say the biggest strength in any self-respecting RPG is its cast of characters, if not the story, each. After all, you gotta give the players something that makes all that battle grind worth it, make them want to see what's going to happen next. And having characters that will stay with the player even after they finish the game, right?
@@ -90,12 +101,13 @@ The designs are also not much to write about, I think the only one that has an i
 
 Aluna is supposed to look like the everyday girl next door, but I feel like you could replace her design with another, and it wouldn't make much of a difference.
 
-Onto another topic, there is a small romance subplot in this, because no urban fantasy story could be complete without it. At one point Aluna and Company save this guy from Werewolves and cure off his curse and there is a bit of flirting. Except..
+![aluna a young woman with blond hair wearing a suit jacket and tie](/images/2025/alunawitches.jpg#original)
+
+On to another topic, there is a small romance subplot in this, because no urban fantasy story could be complete without it. At one point Aluna and Company save this guy from Werewolves and cure off his curse and there is a bit of flirting. Except..
 
 There's no chemistry, and the sprite they used for said love interest has been reused for several other NPCs, I couldn't remember his name once.
 
 And even after helping him, the story doesn't really do much with him, he doesn't join the team or anything. On the last part of the game, he's just hiding the family home until you're done with the villain.
-
 
 I guess Dariel has a subplot about his missing dad, but that kinda felt out of nowhere when you do find, and it does get resolved pretty quickly. Like, you remove this plot line without changing it much.
 

@@ -17,7 +17,7 @@ description: There was a whole country wide wide black, I´m amazed how much I´
 
 So yesterday was very weird, I got to experience my very first country wide shutdown. Portugal, Spain and France were all out of Power.
 
-The good news is that I had plenty of water, food and batteries. Courtesy of the advice of a parent who kept drilling us about the importance of being prepared in an emergency.
+The good news is that I had plenty of water, food and batteries. Courtesy of the advice of a parent who kept drilling us about the importance of being prepared in an emergency for years
 
 I managed to handle things pretty well, even without the internet. Having a shelf full of books, some board games, art supplies and a fully charged 3DS helped. I guess i tried to party like this was 1998 or early 2000s, or just when I was camping with limited acess to energy. I guess all those years prepared me for this.
 
@@ -25,7 +25,7 @@ And having a willing gaming partner to play Uno with helped.
 
 I also managed to dug up an old cassette recorder that also doubles as radio as you can see on the image on top of this post. Worked pretty well all things considering but we only  had access to one station Rádio Commercial. They played some decent music and they were giving out some updates.
 
-Not that it made any of this any scary. Information was still limited, people were freaking put and rushing throught the supermarket for extra supplies, and here I was wondering if this would last the entire night or even days.
+Not that it made any of this any scary. Information was still limited, people were freaking out and rushing throught the supermarket for extra supplies, and here I was wondering if this would last the entire night or even days.
 
 Hospitals were using generators to be able to function, traffic signs stopped working making traffic hell to get throught, schools and colleges had to close for the day. It´s scary how much society depends on electricity just to function.
 
