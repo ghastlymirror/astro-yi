@@ -428,6 +428,14 @@ export const friendshipLinks =
   description: "For Games Unplayed and Unknown"
 },
 
+{
+  name: "BinaryDigit.city",
+  url: "https://binarydigit.city/",
+  avatar: "/images/blogroll/binarydigit.jpg",
+  description: "Blog of a Photographer, Artist and Gamer"
+},
+
+
 
   ]
 
